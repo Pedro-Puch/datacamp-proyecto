@@ -27,3 +27,12 @@ Notebook de competencia (DataCamp): impacto de un curso de preparación en punta
 pip install -r requirements.txt
 python -c "import webbrowser as w; w.open('proyecto.ipynb')"
 # o abrir el .ipynb en Jupyter/VSCode
+
+Ver el informe (DataCamp)
+📓 https://www.datacamp.com/datalab/w/1565bce4-0449-4718-86c9-b60591e2798f
+
+
+
+
+
+
